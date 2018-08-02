@@ -6,7 +6,7 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'hopscotch-rails'
+    gem 'hopscotch-rails', git: "https://github.com/xinspire/hopscotch-rails.git"
 
 And then execute:
 
